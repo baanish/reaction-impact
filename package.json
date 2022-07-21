@@ -13,7 +13,9 @@
     "genshin-icon": "file:../../Downloads/genshin-icon-master",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
+    "react-simple-arrows": "^0.2.0",
+    "react-xarrows": "^2.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
