@@ -11,5 +11,4 @@ export default defineConfig({
     react(),
   ],
   site: `https://baanish.github.io`,
-  base: 'reaction-impact',
 });
