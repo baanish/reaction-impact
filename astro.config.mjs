@@ -10,6 +10,6 @@ export default defineConfig({
     // Enable React for the Algolia search component.
     react(),
   ],
-  site: `https://baanish.github.io/reaction-impact`,
+  site: `https://baanish.github.io`,
   base: '/reaction-impact'
 });
