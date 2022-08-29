@@ -27,8 +27,8 @@ const sidebarSections = SIDEBAR[langCode].reduce((col, item, i) => {
 		{sidebarSections.map((section) => (
 			<li>
 				<div class="nav-group">
-					<details class="nav-group-title" >
-						<summary>
+					<details class="nav-group-title" open={section.open}>
+						<summary style="text-transform:capitalize">
 							{section.text}
 						</summary>
 					<ul>

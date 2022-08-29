@@ -35,6 +35,7 @@ export const KNOWN_LANGUAGES = {
 
 export const SIDEBAR = {
 	en: [
+		{ text: 'Navigation', header: true, open:true },
 		{ text: 'Home',link: 'reaction-impact/en/introduction' },
 		{ text: 'Elements', header: true, open:true },
 		{ text: 'Anemo',link: 'reaction-impact/en/anemo' },
