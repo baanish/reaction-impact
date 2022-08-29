@@ -7,12 +7,12 @@ Pyro is the element of fire.
 
 ## Reactions
 
-[Crystalize](crystalize.md)
+[Crystalize](https://baanish.github.io/reaction-impact/en/crystalize)
 
-[Vaporize](vaporize.md)
+[Vaporize](https://baanish.github.io/reaction-impact/en/vaporize)
 
-[Melt](melt.md)
+[Melt](https://baanish.github.io/reaction-impact/en/melt)
 
-[Overload](overload.md)
+[Overload](https://baanish.github.io/reaction-impact/en/overload)
 
-[Swirl](swirl.md)
+[Swirl](https://baanish.github.io/reaction-impact/en/swirl)

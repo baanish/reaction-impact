@@ -7,12 +7,12 @@ Cryo is the element of ice.
 
 ## Reactions
 
-[Crystalize](crystalize.md)
+[Crystalize](https://baanish.github.io/reaction-impact/en/crystalize)
 
-[Frozen](frozen.md)
+[Frozen](https://baanish.github.io/reaction-impact/en/frozen)
 
-[Melt](melt.md)
+[Melt](https://baanish.github.io/reaction-impact/en/melt)
 
-[Superconduct](superconduct.md)
+[Superconduct](https://baanish.github.io/reaction-impact/en/superconduct)
 
-[Swirl](swirl.md)
+[Swirl](https://baanish.github.io/reaction-impact/en/swirl)

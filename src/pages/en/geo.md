@@ -7,4 +7,4 @@ Geo is the element of the Earth.
 
 ## Reactions
 
-[Crystalize](crystalize.md)
+[Crystalize](https://baanish.github.io/reaction-impact/en/crystalize)

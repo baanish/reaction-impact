@@ -7,12 +7,12 @@ Electro is the element of Electricity.
 
 ## Reactions
 
-[Crystalize](crystalize.md)
+[Crystalize](https://baanish.github.io/reaction-impact/en/crystalize)
 
-[Electro-Charged](electrocharged.md)
+[Electro-Charged](https://baanish.github.io/reaction-impact/en/electrocharged)
 
-[Overload](overload.md)
+[Overload](https://baanish.github.io/reaction-impact/en/overload)
 
-[Superconduct](superconduct.md)
+[Superconduct](https://baanish.github.io/reaction-impact/en/superconduct)
 
-[Swirl](swirl.md)
+[Swirl](https://baanish.github.io/reaction-impact/en/swirl)

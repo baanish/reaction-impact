@@ -7,4 +7,4 @@ Anemo is the element of the wind.
 
 ## Reactions
 
-[Swirl](swirl.md)
+[Swirl](https://baanish.github.io/reaction-impact/en/swirl)

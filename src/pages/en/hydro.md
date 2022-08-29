@@ -7,12 +7,12 @@ Hydro is the element of water.
 
 ## Reactions
 
-[Crystalize](crystalize.md)
+[Crystalize](https://baanish.github.io/reaction-impact/en/crystalize)
 
-[Frozen](frozen.md)
+[Frozen](https://baanish.github.io/reaction-impact/en/frozen)
 
-[Vaporize](vaporize.md)
+[Vaporize](https://baanish.github.io/reaction-impact/en/vaporize)
 
-[Electro-Charged](electrocharged.md)
+[Electro-Charged](https://baanish.github.io/reaction-impact/en/electrocharged)
 
-[Swirl](swirl.md)
+[Swirl](https://baanish.github.io/reaction-impact/en/swirl)
