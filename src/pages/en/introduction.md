@@ -18,9 +18,9 @@ This site is still under construction. 👷🏽‍♂️
 * Sidebar (Needs visual refresh)
 * Element pages
 * Link to Swirl
+* Element information
 
 ### WIP
-* Element information
 * Swirl information
 * Links, general site improvements
 ### Not Started
